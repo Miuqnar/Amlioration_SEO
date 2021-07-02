@@ -544,6 +544,7 @@ a[data-lightbox]:hover::before {
     width: 50px;
     height: 50px;
     margin-left: -25px;
+    padding: 0 15px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
     color: #FFF;
@@ -635,9 +636,11 @@ a[data-lightbox]:hover img {
 }
 
 .snapshot-lb .lightbox-caption {
+    margin: -2px;
     padding: 0;
     color: rgba(0, 0, 0, .5);
     background: none;
+    text-align: center;
 }
 
 h1,
