@@ -713,15 +713,12 @@ p {
     color: #ffffff;
     visibility: hidden;
 }
-.contact-footer{
-    position: relative;
-    left: 80px;
-    top: 140px;
-}
+
 .p-contact-footer{
-    font-size: 20px;
+    color: #ffffff!important;
     text-align: center;
-    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 0 0 10px;
 }
 h2 {
     font-size: 20px;
